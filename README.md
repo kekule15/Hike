@@ -16,3 +16,14 @@ Credo Academy Tutorial App
 ![Simulator Screen Shot - iPhone 14 Pro Max - 2023-07-11 at 06 57 59](https://github.com/kekule15/Hike/assets/48706746/a2c6614f-b7f2-4872-b1da-59f383f2a9ca)
 
 
+# Change App Icon directly from the settings page 
+
+
+
+
+
+![Simulator Screen Shot - iPhone 14 Pro Max - 2023-07-11 at 08 02 46](https://github.com/kekule15/Hike/assets/48706746/77d2a943-70e3-4706-84fa-889843cb9950)
+
+
+
+
